@@ -1,0 +1,19 @@
+{
+  "name": "button-status-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.1",
+    "moment": "^2.10.3"
+  },
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
